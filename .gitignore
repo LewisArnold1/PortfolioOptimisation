@@ -47,3 +47,6 @@
 # Exclude Unix Executables (but allow source code)
 !*.cpp       # Allow C++ source files
 !*.hpp       # Allow C++ headers
+
+# Config file with API keys
+config.json
