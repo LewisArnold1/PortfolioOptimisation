@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# macOS Debugging Files
+*.dSYM/
+
+# Build Directory
+/build/
+
+# Visual Studio Code Files
+.vscode/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# Unix Executables
+*
+!*.cpp       # Allow C++ source files
+!*.hpp       # Allow C++ headers
+!README.md   # Allow README files
+!Makefile    # Allow Makefiles
